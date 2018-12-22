@@ -7,6 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/BasicAlgorithm/BasicDataStructure/Bag" />
       <excludeFolder url="file://$MODULE_DIR$/src/BasicAlgorithm/Digraph" />
       <excludeFolder url="file://$MODULE_DIR$/src/BasicAlgorithm/Searching/HashTable" />
+      <excludeFolder url="file://$MODULE_DIR$/src/BasicAlgorithm/String" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
